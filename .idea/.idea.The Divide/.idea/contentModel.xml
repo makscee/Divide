@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mach\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mach\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_The Divide.1748333798.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mach\The Divide" t="IncludeRecursive">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Nodes" t="Include">
+          <e p="LinesNode.hlsl" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BaseScript.cs" t="Include" />
+          <e p="Lines.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="base.shader" t="Include" />
+        </e>
+        <e p="Utils" t="Include">
+          <e p="Utils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="The Divide.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
